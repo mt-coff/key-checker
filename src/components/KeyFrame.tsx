@@ -25,7 +25,8 @@ const KeyShape = styled.div`
   height: 2rem;
   min-width: 2rem;
   padding: 0.25rem;
-  border: solid 1px black;
+  border: solid 1px #232323;
+  border-radius: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
